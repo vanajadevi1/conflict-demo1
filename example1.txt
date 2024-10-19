@@ -1,0 +1,6 @@
+
+This is the initial content.
+change from branch2.
+
+Change from branch1.
+
