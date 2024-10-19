@@ -1,2 +1,4 @@
 This is a sample file.
 Change from master branch.
+Change from branch1.
+
