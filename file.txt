@@ -1,0 +1,2 @@
+CONFLICT (content): Merge conflict in file.txt
+
